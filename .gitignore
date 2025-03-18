@@ -41,4 +41,7 @@ build/
 .idea/
 
 # OS specific files
-.DS_Store
+.
+
+# Package manager lock files
+package-lock.json
