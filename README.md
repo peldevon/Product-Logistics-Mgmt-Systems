@@ -29,6 +29,6 @@ A comprehensive logistics management system for cassava production companies, de
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/cassava-lms.git
+   git clone "this current repo"
    cd cassava-lms
 
